@@ -1,27 +1,20 @@
 {
-    "name": "burger",
-    "version": "1.0.0",
-    "description": "A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM",
-    "main": "server.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node server.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/j-Riv/burger.git"
-    },
-    "author": "slehna",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/slehna/burger/issues"
-    },
-    "homepage": "https://github.com/slehna/burger",
-    "dependencies": {
-        "express": "^4.16.4",
-        "express-handlebars": "^3.0.0",
-        "mysql": "^2.16.0",
-        "mysql2": "^1.6.5",
-        "sequelize": ">=5.3.0"
-    }
+  "name": "burger-2-the-sequel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slehna/Burger-2-The-Sequel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slehna/Burger-2-The-Sequel/issues"
+  },
+  "homepage": "https://github.com/slehna/Burger-2-The-Sequel#readme"
 }
