@@ -1,7 +1,6 @@
 {
   "name": "burger-2-the-sequel",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/slehna/Burger-2-The-Sequel/issues"
   },
-  "homepage": "https://github.com/slehna/Burger-2-The-Sequel#readme"
+  "homepage": "https://github.com/slehna/Burger-2-The-Sequel#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.10.3"
+  }
 }
